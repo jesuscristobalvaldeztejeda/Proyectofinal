@@ -73,6 +73,11 @@ Hasta que contar = 11;
 	
 hasta que Turno =3;
 Escribir ' ';
-Escribir 'En breve recibiremos mas pacientes'
-
+Escribir 'En breve recibiremos mas pacientes';
+Escribir ' '
+Escribir 'Nombre Empresa: Software Solutions. S.R.L';
+Escribir 'Nombre Proyecto : Optimizacion de citas medicas';
+Escribir 'Integrantes del Grupo Team Solutions';
+Escribir 'Jesus Cristobal Valdez Tejeda, Matricula: 20-SIIN-1-003';
+Escribir 'Laudin Santana Cuevas, Matricula: 19-SIIN-1-131';
 FinAlgoritmo
